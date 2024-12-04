@@ -1,6 +1,5 @@
 # CV_project1
 
-The project code can be found also here: https://colab.research.google.com/drive/12uFtROQSOj4GbxoKuoUvymEkiP2Cq4f1?usp=sharing
 
 ## Project Goal
 Develop an algorithm to detect and track moving objects in acoustic data collected from a Distributed Acoustic Sensing (DAS) system attached to the fiber optic cable at Jana Pawla II Street.
